@@ -1,0 +1,6 @@
+{
+  "name": "Vms",
+  "tagline": "",
+  "body": "# vms\r\n\r\n**Virtual Machines** to help us, reducing the time spending to create a developing or testing environment.\r\n\r\n 1. [RancherOS - Docker host OS](https://github.com/fabiojwalter/vms/blob/master/DeathStar.ova)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
