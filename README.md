@@ -3,7 +3,7 @@
 # Virtual Machines
  To help us, reducing the time spending to create a developing or testing environment.
 
-  1. [RancherOS - Docker host OS](https://github.com/fabiojwalter/vms/blob/master/DeathStar.ova)
+  1. [RancherOS - Docker host OS](https://1drv.ms/u/s!Aplz2fwt_Um5hWSSla4x5O_mdagl)
   
 
 - Username: rancher
