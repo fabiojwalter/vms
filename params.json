@@ -1,6 +1,6 @@
 {
   "name": "Vms",
   "tagline": "",
-  "body": "# vms\r\n\r\n# Virtual Machines\r\n To help us, reducing the time spending to create a developing or testing environment.\r\n\r\n  1. [RancherOS - Docker host OS](https://github.com/fabiojwalter/vms/blob/master/DeathStar.ova)\r\n\r\n# Docker images\r\n\r\n  1. [Apache Spark](https://hub.docker.com/r/fabiojwalter/spark/)\r\n\r\n",
+  "body": "# vms\r\n\r\n# Virtual Machines\r\n To help us, reducing the time spending to create a developing or testing environment.\r\n\r\n  1. [RancherOS - Docker host OS](https://github.com/fabiojwalter/vms/blob/master/DeathStar.ova)\r\n  * Username: rancher\r\n  * Password: skywalker\r\n\r\n# Docker images\r\n\r\n  1. [Apache Spark](https://hub.docker.com/r/fabiojwalter/spark/)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
